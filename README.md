@@ -6,6 +6,8 @@ Many sites such as Amazon.com now use chat bots that respond to user inquiries a
 
 We are going to build a similar functionality using NodeJS to take in user input, analyze it and give a response.  Be creative with this.  Your bot should ask follow up questions based on the user's previous response.
 
+Fork and clone this repo to get started.
+
 
 Helpful Resources
 [Taking input with NodeJS](https://www.codecademy.com/articles/getting-user-input-in-node-js)
