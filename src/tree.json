@@ -81,7 +81,7 @@
                         "guess": "Are you a lizard?"
                     }
                 },"no": {
-                    "question": "Are you a snake?"
+                    "guess": "Are you a snake?"
                 }
             },"no": {
                 "question": "Do you have legs?",
