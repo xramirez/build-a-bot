@@ -1,0 +1,96 @@
+{
+    "question": "Are you a mammal?",
+    "yes": {
+        "question": "Are you a rodent?",
+        "yes": {
+            "question": "Do you have a long tail?",
+            "yes": {
+                "question": "Is your tail furry?",
+                "yes": {
+                    "guess": "Are you a ferret?"
+                },
+                "no" : {
+                    "guess": "Are you a mouse/rat?"
+                }
+            },"no" :{
+                "question": "Do you have quills?",
+                "yes": {
+                    "guess": "Are you a hedgehog?"
+                },
+                "no" : {
+                    "guess": "Are you a hamster/guinea pig?"
+                }
+            }
+        },"no": {
+            "question": "Do you have hooves?",
+            "yes": {
+                "question": "Are you usually used for milk?",
+                "yes": {
+                    "question": "Are you used for beef patties?",
+                    "yes": {
+                        "guess": "Are you a cow?"
+                    },
+                    "no": {
+                        "guess": "Are you a goat?"
+                    }
+                },"no": {
+                    "question": "Are you used for bacon?",
+                    "yes": {
+                        "guess": "Are you a pig?"
+                    },"no": {
+                        "guess": "Are you a horse?"
+                    }
+                }
+            },"no": {
+                "question": "Do you bounce?",
+                "yes": {
+                    "guess": "Are you a rabbit?"
+                },"no": {
+                    "question": "Do you have retractable claws?",
+                    "yes": {
+                        "guess": "Are you a cat?"
+                    },"no": {
+                        "guess": "Are you a dog?"
+                    }
+                }
+            }
+        }
+    },"no": {
+        "question": "Are you a bird?",
+        "yes": {
+            "question": "Do you sing?",
+            "yes": {
+                "guess": "Are you a parrot?"
+            },"no": {
+                "question": "Do you gobble gobble?",
+                "yes": {
+                    "guess": "Are you a turkey?"
+                },"no": {
+                    "guess": "Are you a chicken?"
+                }
+            }
+        },"no": {
+            "question": "Are you a reptile?",
+            "yes": {
+                "question": "Do you have legs?",
+                "yes": {
+                    "question": "Do you have a shell?",
+                    "yes": {
+                        "guess": "Are you a turtle?"
+                    },"no": {
+                        "guess": "Are you a lizard?"
+                    }
+                },"no": {
+                    "question": "Are you a snake?"
+                }
+            },"no": {
+                "question": "Do you have legs?",
+                "yes": {
+                    "guess": "Are you a frog?"
+                },"no": {
+                    "guess": "Are you a fish?"
+                }
+            }
+        }
+    }
+}
