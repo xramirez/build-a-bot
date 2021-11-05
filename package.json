@@ -16,5 +16,9 @@
     "url": "https://github.com/xramirez/build-a-bot/issues"
   },
   "homepage": "https://github.com/xramirez/build-a-bot#readme",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "prompt-sync": "^4.2.0"
+  }
 }
