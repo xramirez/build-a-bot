@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/xramirez/build-a-bot/issues"
   },
-  "homepage": "https://github.com/xramirez/build-a-bot#readme"
+  "homepage": "https://github.com/xramirez/build-a-bot#readme",
+  "keywords": []
 }
